@@ -1,6 +1,9 @@
 
 EzBit Api Server
 ====================================
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dc61687471f942fe8089489e0ce70690)](https://app.codacy.com/app/alanpopper/EzBitcoin-Api-Wallet?utm_source=github.com&utm_medium=referral&utm_content=alanpopper/EzBitcoin-Api-Wallet&utm_campaign=Badge_Grade_Settings)
+
 Bitcoin RESTful API JSONRPC Wrapper - PHP
 -----
 Made to be the simplest, fastest way to get your own bitcoin wallet server up and running. Optimized for simplicity and speed towards a MVP. This more than a RPC wrapper it is a full database complete with logs and it does the most vital task of processing incoming transactions which befuddles many who first try and make a bitcoin service. We are using three of this API servers in our systems and it works beautifully and simply.
